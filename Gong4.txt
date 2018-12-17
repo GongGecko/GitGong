@@ -1,3 +1,0 @@
-ccc   ccc   ccc
-ddd   ddd   ddd
-ttt   yyy   qqq
